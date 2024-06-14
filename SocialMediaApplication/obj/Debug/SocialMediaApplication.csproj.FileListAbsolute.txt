@@ -1,0 +1,7 @@
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\bin\Debug\SocialMediaApplication.exe.config
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\bin\Debug\SocialMediaApplication.exe
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\bin\Debug\SocialMediaApplication.pdb
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\obj\Debug\SocialMediaApplication.csproj.AssemblyReference.cache
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\obj\Debug\SocialMediaApplication.csproj.CoreCompileInputs.cache
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\obj\Debug\SocialMediaApplication.exe
+D:\Programming\Dot Net\ADO(ActiveX Data Object)\Project\SocialMedia\SocialMediaApplication\SocialMediaApplication\obj\Debug\SocialMediaApplication.pdb
